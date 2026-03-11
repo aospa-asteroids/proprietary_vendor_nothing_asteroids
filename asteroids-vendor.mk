@@ -1065,7 +1065,6 @@ PRODUCT_PACKAGES += \
     libperipheral_client \
     libpfr \
     libportrait_repair_qnn \
-    libprotobuf-cpp-full-21.7 \
     libqc2audio_base \
     libqc2audio_basecodec \
     libqc2audio_core \
